@@ -67,8 +67,8 @@ class _MyHomePageState extends State<MyHomePage> {
             Neon(
               text: 'vijaycreations',
               color: Colors.blue,
-              fontSize: 50,
-              font: NeonFont.Cyberpunk,
+              fontSize: 40,
+              font: NeonFont.Beon,
               flickeringText: true,
               flickeringLetters: null,
               glowingDuration: new Duration(seconds: 1),
