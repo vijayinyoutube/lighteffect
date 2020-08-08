@@ -7,7 +7,9 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  int alphaValue = 50;
   bool ispressed = false;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -30,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   boxShadow: [
                     ispressed
                         ? BoxShadow(
-                            color: Colors.blue.withAlpha(125),
+                            color: Colors.blue.withAlpha(alphaValue),
                             blurRadius: 45,
                             spreadRadius: 15,
                             offset: Offset(0, 0),
@@ -61,13 +63,19 @@ class _MyHomePageState extends State<MyHomePage> {
               value: 50,
               max: 125,
               onChanged: (double value) {
-                value = value;
+                setState(() {
+                  alphaValue = value.toInt();
+                  value = value;
+                });
               },
+            ),
+            SizedBox(
+              height: 75,
             ),
             Neon(
               text: 'vijaycreations',
               color: Colors.blue,
-              fontSize: 40,
+              fontSize: 25,
               font: NeonFont.Beon,
               flickeringText: true,
               flickeringLetters: null,
