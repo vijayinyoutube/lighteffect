@@ -2,7 +2,8 @@
 
 A sample light effect and neon effect in Flutter
 
-[![BUILD](https://img.shields.io/badge/Build-OK-<COLOR>.svg)](https://github.com/vijayinyoutube/lighteffect)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blue.svg)](https://github.com/vijayinyoutube/lighteffect)
+[![BUILD](https://img.shields.io/badge/Build-OK-<COLOR>.svg)](https://github.com/vijayinyoutube/lighteffect)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blue.svg)](https://github.com/vijayinyoutube/lighteffect) [![MIT license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/vijayinyoutube/lighteffect) [![Flutter](https://img.shields.io/badge/Built_using-Flutter-blue.svg)](https://github.com/vijayinyoutube/lighteffect)
+
 
 ## Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
@@ -16,7 +17,7 @@ neon: ^0.0.1
 
 In this app we will be making use of neon dependencies and also apply manual box-shadow effects to obtain the output as below.
 
-> Visit My Channel for more Flutter Tutorials: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
+* Visit My Channel for more Flutter Tutorials 👉: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
 
 ------------------
 
