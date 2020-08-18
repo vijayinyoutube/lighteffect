@@ -17,6 +17,8 @@ neon: ^0.0.1
 
 In this app we will be making use of neon dependencies and also apply manual box-shadow effects to obtain the output as below.
 
+* Check out the video tutorial for this app 👉: https://youtu.be/qDv48-mDR00
+
 * Visit My Channel for more Flutter Tutorials 👉: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
 
 ------------------
