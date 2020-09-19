@@ -9,7 +9,7 @@ A sample light effect and neon effect in Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
 
 ## Dependencies
-```
+```pubspec.yaml
 neon: ^0.0.1
 ```
 
